@@ -99,12 +99,6 @@ You can add screenshots here:
 
 ---
 
-## 👨‍💻 Developer
-
-- Android Student Project
-- Built for learning purposes
-
----
 
 
 
