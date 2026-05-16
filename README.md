@@ -39,3 +39,73 @@ Simple To Do List mobile application built using **Kotlin + SQLite** in Android 
 ---
 
 ## 📂 Project Structure
+com.example.final_projectapp
+│
+├── data
+│ └── Database.kt
+│
+├── ui
+│ ├── login.kt
+│ └── MainActivity.kt (Register)
+│
+├── list_activity.kt
+├── Task.kt
+├── TaskAdapter.kt
+
+
+---
+
+## 🗄️ Database
+
+Two tables are used:
+
+### Users Table
+- id (Primary Key)
+- username
+- password
+
+### Tasks Table
+- task_id (Primary Key)
+- task_title
+
+---
+
+## 📸 Screens (Optional)
+
+You can add screenshots here:
+/screenshots/login.png
+/screenshots/register.png
+/screenshots/todo.png
+
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open in Android Studio
+3. Sync Gradle
+4. Run on emulator or real device
+
+---
+
+## 💡 Future Improvements
+
+- Delete single task
+- Edit task
+- Mark task as completed
+- Firebase integration
+- UI improvements (Material Design)
+
+---
+
+## 👨‍💻 Developer
+
+- Android Student Project
+- Built for learning purposes
+
+---
+
+
+
+
